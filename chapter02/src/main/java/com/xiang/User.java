@@ -15,7 +15,7 @@ public class User {
     }
 
     @Override
-    protected void finalize() throws Throwable {
+    protected void finalize() {
         System.out.println("User 当前示例被销毁了...");
     }
 }
