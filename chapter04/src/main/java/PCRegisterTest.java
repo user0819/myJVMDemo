@@ -7,6 +7,7 @@ public class PCRegisterTest {
 
         String s = "abc";
         System.out.println(i);
+        System.out.println(j);
         System.out.println(k);
         System.out.println(s);
 
